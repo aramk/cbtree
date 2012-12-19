@@ -239,7 +239,7 @@ define(["dojo/_base/array",
 			//		Menu item widget that was clicked
 			// evt:
 			//		Event object.
-		},
+		}
 
 	});
 	return CrumbTrail;
